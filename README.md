@@ -33,3 +33,7 @@ This portfolio sample demonstrates the ability to:
 This repository is intentionally small. It is designed to show documentation judgment, structure, and writing quality rather than full product coverage.
 
 The fictional product and API examples are used only to demonstrate documentation style and organization.
+
+## Documentation approach
+
+I organized this sample to show how I would structure a small developer documentation set for a GPU inference platform. The sample separates quick-start/tutorial content, how-to guidance, conceptual explanation, API reference material, and error-handling documentation using the Diátaxis framework.
